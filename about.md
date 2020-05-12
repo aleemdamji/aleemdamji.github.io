@@ -18,4 +18,4 @@ Personally, I am an avid traveler, reader and sports fan.
 
 You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
 
-For those who are interested - here is my [CV](https://aleemdamji.github.io/pdfs/CV_Publish.pdf)
+For those who are interested - here is my [CV](https://aleemdamji.github.io/pdfs/CV_Publish.pdf).
