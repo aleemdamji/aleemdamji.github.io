@@ -8,6 +8,12 @@ Hi, I'm Aleem Damji. I seek to continually challenge myself and learn about new 
 
 Personally, I am an avid traveler, reader and sports fan. One of my goals is to visit all 193 UN Member States.
 
+### Contact me
+
+You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
+
+For those who are interested - here is my [CV](https://aleemdamji.github.io/pdfs/CV_Publish.pdf).
+
 ### Educational Background
 
 #### Degrees 
@@ -20,8 +26,4 @@ Personally, I am an avid traveler, reader and sports fan. One of my goals is to 
 
 * [Data Science: R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+1T2018/course/) (2018), HarvardX
 
-### Contact me
 
-You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
-
-For those who are interested - here is my [CV](https://aleemdamji.github.io/pdfs/CV_Publish.pdf).
