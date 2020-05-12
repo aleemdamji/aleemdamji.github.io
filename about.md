@@ -17,3 +17,5 @@ Personally, I am an avid traveler, reader and sports fan.
 ### Contact me
 
 You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
+
+For those who are interested - here is my [CV] (https://aleemdamji.github.io/pdfs/CV_Publish.pdf)
