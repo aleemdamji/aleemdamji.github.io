@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Aleem Damji. I seek to continually challenge myself and learn about new things. Here is where I plan on posting both my portfolio and notes about things I'm learning. 
 
-### More Information
+Personally, I am an avid traveler, reader and sports fan. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Educational Background
+
+#### Degrees 
+
+* Bachelor of Commerce (2016-2020), First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University (Montreal, QC, Canada)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
