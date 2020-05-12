@@ -8,9 +8,13 @@ Hi, I'm Aleem Damji. Here is where I plan on posting both my portfolio and notes
 
 ### Educational Background
 
-#### Traditional Education
+#### Online Courses
 
-* Bachelor of Commerce, First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University, Montreal, QC, Canada
+*
+
+#### Degrees 
+
+* Bachelor of Commerce (2016-2020), First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University (Montreal, QC, Canada)
 
 ### Contact me
 
