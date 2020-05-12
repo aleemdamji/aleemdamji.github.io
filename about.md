@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Aleem Damji. I seek to continually challenge myself and learn about new things. Here is where I plan on posting both my portfolio and notes about things I'm learning. 
 
-Personally, I am an avid traveler, reader and sports fan. One of my goals is to visit all 193 UN Member States.
+Personally, I am an avid traveler, reader and sports fan. One of my goals is to visit all 193 UN Member States (Currently at 12/193).
 
 ### Contact me
 
