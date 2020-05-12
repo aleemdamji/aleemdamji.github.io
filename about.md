@@ -6,13 +6,19 @@ permalink: /about/
 
 Hi, I'm Aleem Damji. I seek to continually challenge myself and learn about new things. Here is where I plan on posting both my portfolio and notes about things I'm learning. 
 
-Personally, I am an avid traveler, reader and sports fan. 
+Personally, I am an avid traveler, reader and sports fan. One of my goals is to visit all 193 UN Member States.
 
 ### Educational Background
 
 #### Degrees 
 
-* Bachelor of Commerce (2016-2020), First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University (Montreal, QC, Canada)
+* Bachelor of Commerce (2016-2020), First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University (Montréal, QC, Canada)
+
+#### Online Courses
+
+##### Completed
+
+* [Data Science: R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+1T2018/course/) (2018), HarvardX
 
 ### Contact me
 
