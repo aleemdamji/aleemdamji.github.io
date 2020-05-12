@@ -4,11 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Aleem 
-### More Information
+Hi, I'm Aleem Damji. Here is where I plan on posting both my portfolio and notes about things I'm learning (both traditionally and non traditionally).
 
-A place to include any other types of information that you'd like to include about yourself.
+### Educational Background
+
+#### Traditional Education
+
+* Bachelor of Commerce, First Class Honours in Economics with a Double Concentration in Business Analytics and Computer Science, McGill University, Montreal, QC, Canada
 
 ### Contact me
 
-[aleemdamji at gmail.com](mailto:aleemdamji+blogemails@gmail.com)
+You can email me at [aleemdamji @ gmail.com].(mailto:aleemdamji+blogemails@gmail.com)
