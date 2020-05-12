@@ -18,4 +18,4 @@ Hi, I'm Aleem Damji. Here is where I plan on posting both my portfolio and notes
 
 ### Contact me
 
-You can email me at [aleemdamji @ gmail.com].(mailto:aleemdamji+blogemails@gmail.com)
+You can email me at [aleemdamji @ gmail.com](mailto:aleemdamji+blogemails@gmail.com).
