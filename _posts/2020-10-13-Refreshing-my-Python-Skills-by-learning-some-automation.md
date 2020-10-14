@@ -1,5 +1,6 @@
+
 ---
-layout:post
+layout: post
 title: "Refreshing my Python Skills by learning some automation"
 ---
 
